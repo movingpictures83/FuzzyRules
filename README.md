@@ -1,0 +1,2 @@
+# FuzzyRules
+Fuzzy Inference Rules
